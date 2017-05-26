@@ -1,0 +1,15 @@
+{
+  "name": "tobiasz",
+  "version": "1.0.0",
+  "description": "''\u001b[Dtask 2.8",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "author": "tobi",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
